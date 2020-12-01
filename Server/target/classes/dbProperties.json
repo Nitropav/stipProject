@@ -1,0 +1,5 @@
+{
+  "url": "jdbc:mysql://localhost:3306/stipendii?verifyServerCertificate=false&allowPublicKeyRetrieval=true&useSSL=false&requireSSL=false&useLegacyDatetimeCode=false&amp&serverTimezone=UTC",
+  "login": "root",
+  "password": ""
+}
